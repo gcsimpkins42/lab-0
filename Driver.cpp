@@ -39,7 +39,6 @@ class Forest
 
     public:
 
-
     
 };
 
@@ -47,6 +46,8 @@ class Data
 {
 
 	private:
+
+    public:
     
 };
 
